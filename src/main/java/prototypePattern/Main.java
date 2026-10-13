@@ -7,7 +7,7 @@ public class Main {
         Email email3 = Prototype.cloneObject();
 
         email2.setSubject("New Subject");
-        email3.setBody("New Body");
+        email3.setBody("New Body2");
 
         Prototype.display();
         email2.display();
